@@ -5,7 +5,7 @@
   <default revision="master" remote="aosp" sync-j="4" />
 
   <project path="build" name="kernel/build" revision="master" />
-  <project path="hikey-linaro" name="linux" clone-depth="1" revision="android-amlogic-bmeson-4.19-integ" remote="gitlab" >
+  <project path="hikey-linaro" name="linux" clone-depth="1" revision="android-amlogic-bmeson-4.19" remote="gitlab" >
     <linkfile src="build.config.yukawa.aarch64" dest="build.config"/>
   </project>
   <project path="kernel/tests" name="kernel/tests" revision="master" />
