@@ -14,5 +14,6 @@
   <project path="prebuilts-master/clang/host/linux-x86" revision="5fa991a27edd8aa01cbddf8dc0f6706a1dc83c9b" name="platform/prebuilts/clang/host/linux-x86" clone-depth="1" />
   <project path="prebuilts/boot-artifacts" name="platform/prebuilts/boot-artifacts" />
   <project path="prebuilts/build-tools" name="platform/prebuilts/build-tools" clone-depth="1" />
+  <project path="prebuilts/misc" name="platform/prebuilts/misc" clone-depth="1"/>
   <project path="tools/mkbootimg" name="platform/system/tools/mkbootimg" />
 </manifest>
